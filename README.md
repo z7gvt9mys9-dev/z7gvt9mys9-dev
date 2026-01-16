@@ -20,8 +20,9 @@
 ## GitHub Stats
 
 <div align="center">
-[github-z7gvt9mys9-dev-null.stl](github-z7gvt9mys9-dev-null.stl)
+[Скачать и посмотреть 3D-модель (интерактивно на GitHub)](github-z7gvt9mys9-dev-null.stl)
 
+Кликни по ссылке → откроется страница файла с вращением, зумом и видом wireframe/shaded.
 <br/>
   
   <!-- Streak -->
