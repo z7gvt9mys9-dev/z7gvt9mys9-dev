@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="e6c325fe-8080-4c69-95c4-f5d012fd8fdd.png" width="100%" />
+</p>
+
 <div align="center">
 
 # `z7gvt9mys9-dev`
@@ -17,9 +21,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=z7gvt9mys9-dev&show_icons=true&theme=tokyonight&bg_color=000000&hide_border=true" alt="GitHub stats"/>
+  <!-- Stats -->
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=z7gvt9mys9-dev&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=cccccc&text_color=aaaaaa&icon_color=888888" alt="Stats" width="48%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=z7gvt9mys9-dev&theme=tokyonight&background=000000&hide_border=true" alt="Streak stats"/>
+  <!-- Streak -->
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=z7gvt9mys9-dev&theme=dark&hide_border=true&background=000000&ring=222222&fire=222222&currStreakNum=cccccc&sideNums=aaaaaa&currStreakLabel=888888&sideLabels=777777&dates=555555" alt="Streak" width="48%" />
 
 </div>
 
