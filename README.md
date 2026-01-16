@@ -20,7 +20,7 @@
 ## GitHub Stats
 
 <div align="center">
-![](https://github-profile-3d-contrib.vercel.app/api?username=z7gvt9mys9-dev&theme=tokyonight&cache=1)
+[github-z7gvt9mys9-dev-null.stl](github-z7gvt9mys9-dev-null.stl)
 
 <br/>
   
