@@ -33,3 +33,6 @@
 > status: online
 > focus: building
 > mode: silent
+```
+
+![](https://github-profile-3d-contrib.vercel.app/api?username=z7gvt9mys9-dev&theme=tokyonight)
