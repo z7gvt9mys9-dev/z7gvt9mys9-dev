@@ -20,7 +20,7 @@
 ## GitHub Stats
 
 <div align="center">
-<img src="https://github-profile-3d-contrib.vercel.app/api?username=z7gvt9mys9-dev&theme=tokyonight&v=4" alt="3D Contribution Graph" />
+![](https://github-profile-3d-contrib.vercel.app/api?username=z7gvt9mys9-dev&theme=tokyonight&cache=1)
 
 <br/>
   
