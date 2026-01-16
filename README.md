@@ -35,4 +35,4 @@
 > mode: silent
 ```
 
-![](https://github-profile-3d-contrib.vercel.app/api?username=z7gvt9mys9-dev&theme=tokyonight)
+![snake github game](https://github-contribution-grid-snake.vercel.app/api/github-contribution-grid-snake.svg?username=z7gvt9mys9-dev&palette=github-dark)
