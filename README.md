@@ -20,10 +20,6 @@
 ## GitHub Stats
 
 <div align="center">
-
-  <!-- Stats -->
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=z7gvt9mys9-dev&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=cccccc&text_color=aaaaaa&icon_color=888888" alt="Stats" width="48%" />
-
   <!-- Streak -->
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=z7gvt9mys9-dev&theme=dark&hide_border=true&background=000000&ring=222222&fire=222222&currStreakNum=cccccc&sideNums=aaaaaa&currStreakLabel=888888&sideLabels=777777&dates=555555" alt="Streak" width="48%" />
 
