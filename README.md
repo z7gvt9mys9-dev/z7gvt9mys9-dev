@@ -20,6 +20,10 @@
 ## GitHub Stats
 
 <div align="center">
+<img src="https://github-profile-3d-contrib.vercel.app/api?username=z7gvt9mys9-dev&theme=tokyonight&v=4" alt="3D Contribution Graph" />
+
+<br/>
+  
   <!-- Streak -->
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=z7gvt9mys9-dev&theme=dark&hide_border=true&background=000000&ring=222222&fire=222222&currStreakNum=cccccc&sideNums=aaaaaa&currStreakLabel=888888&sideLabels=777777&dates=555555" alt="Streak" width="48%" />
 
@@ -34,5 +38,3 @@
 > focus: building
 > mode: silent
 ```
-
-![snake github game](https://github-contribution-grid-snake.vercel.app/api/github-contribution-grid-snake.svg?username=z7gvt9mys9-dev&palette=github-dark)
