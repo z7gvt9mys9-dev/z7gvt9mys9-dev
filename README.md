@@ -1,16 +1,33 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**z7gvt9mys9-dev/z7gvt9mys9-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# `z7gvt9mys9-dev`
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node-black?style=flat&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=z7gvt9mys9-dev&show_icons=true&theme=tokyonight&bg_color=000000&hide_border=true" alt="GitHub stats"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=z7gvt9mys9-dev&theme=tokyonight&background=000000&hide_border=true" alt="Streak stats"/>
+
+</div>
+
+---
+
+## System Status
+
+```bash
+> status: online
+> focus: building
+> mode: silent
