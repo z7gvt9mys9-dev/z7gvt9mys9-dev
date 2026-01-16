@@ -19,12 +19,7 @@
 
 ## GitHub Stats
 
-<div align="center">
-[Скачать и посмотреть 3D-модель (интерактивно на GitHub)](github-z7gvt9mys9-dev-null.stl)
-
-Кликни по ссылке → откроется страница файла с вращением, зумом и видом wireframe/shaded.
-<br/>
-  
+<div align="center">  
   <!-- Streak -->
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=z7gvt9mys9-dev&theme=dark&hide_border=true&background=000000&ring=222222&fire=222222&currStreakNum=cccccc&sideNums=aaaaaa&currStreakLabel=888888&sideLabels=777777&dates=555555" alt="Streak" width="48%" />
 
